@@ -1,3 +1,7 @@
+**Original files to be found above in the original repository it has been forked from. The cachematrix.R file is the result submitted as homework. Detail of what has been done is to be found below (written by Professor Richard Peng).** 
+
+
+
 ### Introduction
 
 This second programming assignment will require you to write an R
